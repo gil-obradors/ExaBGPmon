@@ -1,4 +1,6 @@
-# ExaBGPmon
+
+
+# ExaBGPmon  [![Python 2.7](https://img.shields.io/badge/python-2.7-blue.svg)](https://www.python.org/downloads/release/python-270)
 An HTTP frontend to the glorious ExaBGP
 
 ### Features
